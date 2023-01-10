@@ -8,14 +8,22 @@
 
 ☞ The third approach involves using a pre-trained language model, such as T5, to generate a summary. The T5 model was trained on a large dataset of text and is able to generate human-like summaries by predicting the next word in a sequence. To use this approach, we first need to install the required libraries and load the data. We can then create a NewsSummaryDataset and a NewsSummaryDataModule to handle the data processing and loading. Next, we can define our model by creating a T5ForConditionalGeneration model and specifying the hyperparameters. Finally, we can train the model by defining an AdamW optimizer and a ModelCheckpoint callback to save the model weights at each epoch.
 
-## #DEMO 🏆
+
+## #MODELS 🏆
+☞[`HEADLINE`](https://drive.google.com/file/d/1o6gA5ofRYUL0jCUtjrNcnt2SJN_tAi2n/view?usp=sharing) MODEL
+
+☞[`SUMMARY 3`](https://drive.google.com/file/d/1P87tKfRhVCUtMRDJwh21zs1SSRcTwLY9/view?usp=sharing) MODEL
+
+
+## #BLUEPRINT 🛰️
 
 
 ## #EXPLAINED IN DETAIL...🌐
 
 
-## #OUTPUTS ✨
-☞ IN `screenshots` FOLDER
+## #OUTPUTS 🚀
+☞ IN [`screenshots`](https://github.com/shrey-patel-3287/Text-Summerizer-v2.0/tree/main/screenshots) FOLDER
+
 
 ## #ISSUES 💀
 ☞ Headline only work properly if given input is news article.
