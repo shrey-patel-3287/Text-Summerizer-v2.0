@@ -14,4 +14,10 @@
 ## #EXPLAINED IN DETAIL...🌐
 
 
-## #OUTPUT ✨
+## #OUTPUTS ✨
+☞ IN `screenshots` FOLDER
+
+## #ISSUES 💀
+☞ Headline only work properly if given input is news article.
+
+☞ We are working on it...........
