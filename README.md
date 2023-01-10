@@ -16,7 +16,45 @@
 
 
 ## #BLUEPRINT 🛰️
+🛑 All files must be arrange in given manner (including MODELS) 🛑
 
+``` bash
+Text-Summarizer-v2.0
+|
+│   content.txt
+│   headline.py
+│   main.py
+│   pdf_txt.py
+│   README.md
+│   requirements.txt
+│   summarizer1.py
+│   summarizer2.py
+│   summarizer3.py   
+│   
+├───models
+│   ├───headline_model
+│   │       config.json
+│   │       pytorch_model.bin
+│   │       special_tokens_map.json
+│   │       spiece.model
+│   │       tokenizer.json
+│   │       tokenizer_config.json
+│   │       
+│   └───summary_model
+│          best-checkpoint.ckpt
+│          model.py
+│                      
+├───screenshots
+│       Exception.png
+│       File_upload.png
+│       Home.png
+│       summary_of _uploaded file.png
+│       Summery_of_inputText.png
+│       Text_input.png
+│       
+└───uploaded_pdfs
+       Independence.pdf
+```
 
 ## #EXPLAINED IN DETAIL...🌐
 
