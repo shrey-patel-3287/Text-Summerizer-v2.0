@@ -57,7 +57,7 @@ Text-Summarizer-v2.0
 ```
 
 ## #EXPLAINED IN DETAIL...🌐
-☞ BLOG: [`Text Summarization v2.0`](https://medium.com/@shreypatel3287/text-summarizer-v2-0-217544158152) 
+☞ BLOG: [`Text Summarizer v2.0`](https://medium.com/@shreypatel3287/text-summarizer-v2-0-217544158152) 
 
 ## #OUTPUTS 🚀
 ☞ IN [`screenshots`](https://github.com/shrey-patel-3287/Text-Summerizer-v2.0/tree/main/screenshots) FOLDER
